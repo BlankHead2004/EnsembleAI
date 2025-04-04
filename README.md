@@ -1,7 +1,7 @@
 # 🤖 EnsembleAI
 
 <p align="center">
-  <img src="https://via.placeholder.com/200x200.png?text=EnsembleAI" alt="EnsembleAI Logo" width="200" height="200">
+  <img src="https://avatars.githubusercontent.com/u/195958544?v=4" alt="EnsembleAI Logo" width="200" height="200">
 </p>
 
 <p align="center">
