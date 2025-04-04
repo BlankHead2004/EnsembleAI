@@ -9,14 +9,15 @@
 </p>
 
 <p align="center">
-  <a href="#overview">Overview</a> •
-  <a href="#features">Features</a> •
-  <a href="#installation">Installation</a> •
-  <a href="#usage">Usage</a> •
-  <a href="#examples">Examples</a> •
-  <a href="#roadmap">Roadmap</a> •
-  <a href="#contributing">Contributing</a> •
-  <a href="#license">License</a>
+  <a href="#-overview">Overview</a> •
+  <a href="#-features">Features</a> •
+  <a href="#-tools-library">Tools Library</a> •
+  <a href="#-installation">Installation</a> •
+  <a href="#-environment-variables">Environment Variables</a> •
+  <a href="#-usage">Usage</a> •
+  <a href="#-examples">Examples</a> •
+  <a href="#-roadmap">Roadmap</a> •
+  <a href="#-contributing">Contributing</a>
 </p>
 
 ## 📋 Overview
